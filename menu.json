@@ -1,0 +1,893 @@
+{
+  "config": {
+    "businessName": "DhruvTara Home Kitchen",
+    "tagline": "From Our Kitchen to Your Memories",
+    "location": "Erode, Tamil Nadu",
+    "phone": "+919043425024",
+    "whatsapp": "919043425024",
+    "whatsappText": "Hi DhruvTara Home Kitchen! I'm planning a get-together in Erode and would like to ask about catering.",
+    "sectionOrder": [
+      "Starters",
+      "Main Course",
+      "Rice & Noodles",
+      "Breads",
+      "Desserts",
+      "Traditional Delicacies"
+    ]
+  },
+  "items": [
+    {
+      "name": "Club Sandwich",
+      "section": "Starters",
+      "price": 30,
+      "unit": "pc",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Vada Pav / Dabeli",
+      "section": "Starters",
+      "price": 50,
+      "unit": "pc",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Noodle Samosa",
+      "section": "Starters",
+      "price": 50,
+      "unit": "pc",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Baked Taco Daabeli",
+      "section": "Starters",
+      "price": 70,
+      "unit": "pc",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Pizza Veg Overloaded",
+      "section": "Starters",
+      "price": 270,
+      "unit": "pc",
+      "bestseller": false,
+      "signature": false,
+      "details": "7\" thin crust, fully loaded · min. 2"
+    },
+    {
+      "name": "Mathri",
+      "section": "Starters",
+      "price": 600,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Nachos",
+      "section": "Starters",
+      "price": 640,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": "Home made"
+    },
+    {
+      "name": "Salsa",
+      "section": "Starters",
+      "price": 600,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Cheesy Dip",
+      "section": "Starters",
+      "price": 760,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Veg / Soya Kabab",
+      "section": "Starters",
+      "price": 760,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Noodle Balls",
+      "section": "Starters",
+      "price": 760,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Patti Samosa",
+      "section": "Starters",
+      "price": 760,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Gobi / Paneer Manchurian",
+      "section": "Starters",
+      "price": 760,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Aaloo Tikki",
+      "section": "Starters",
+      "price": 760,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Sooji Cutlet",
+      "section": "Starters",
+      "price": 760,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Pasta",
+      "section": "Starters",
+      "price": 760,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": "Alfredo / Marinara / Sugo-Rosa"
+    },
+    {
+      "name": "Hara Bhara Kabab",
+      "section": "Starters",
+      "price": 800,
+      "unit": "kg",
+      "bestseller": true,
+      "signature": true,
+      "details": "Spinach & green-pea patties"
+    },
+    {
+      "name": "Corn Cheese Balls",
+      "section": "Starters",
+      "price": 800,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Veg Spring Roll",
+      "section": "Starters",
+      "price": 800,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Veg Balls Manchurian",
+      "section": "Starters",
+      "price": 800,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Gobi / Paneer Chilly",
+      "section": "Starters",
+      "price": 800,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Vada Pav Bites",
+      "section": "Starters",
+      "price": 800,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Veg Pockets",
+      "section": "Starters",
+      "price": 800,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Pasta Aglio Olio",
+      "section": "Starters",
+      "price": 840,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Khopra Patties",
+      "section": "Starters",
+      "price": 880,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Paneer Fingers",
+      "section": "Starters",
+      "price": 880,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Dahi Ke Kabab",
+      "section": "Starters",
+      "price": 880,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Malai Broccoli",
+      "section": "Starters",
+      "price": 920,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Lasagne",
+      "section": "Starters",
+      "price": 920,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Paneer Tikka",
+      "section": "Starters",
+      "price": 1000,
+      "unit": "kg",
+      "bestseller": true,
+      "signature": true,
+      "details": "Char-grilled tandoori paneer"
+    },
+    {
+      "name": "Soya Chaap",
+      "section": "Starters",
+      "price": 1200,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": "Tandoori / Malai"
+    },
+    {
+      "name": "Dahi Pakodi Kadi",
+      "section": "Main Course",
+      "price": 560,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Bharva Karele",
+      "section": "Main Course",
+      "price": 560,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Bharva Bhindi",
+      "section": "Main Course",
+      "price": 560,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Dal Tadka",
+      "section": "Main Course",
+      "price": 560,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": "Yellow / Channa"
+    },
+    {
+      "name": "Mix Veg",
+      "section": "Main Course",
+      "price": 600,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Pindi Chole",
+      "section": "Main Course",
+      "price": 600,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Dal Pachmel",
+      "section": "Main Course",
+      "price": 600,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": "Five-lentil dal"
+    },
+    {
+      "name": "Dum Aaloo",
+      "section": "Main Course",
+      "price": 640,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": true,
+      "details": "Kashmiri-style baby potatoes"
+    },
+    {
+      "name": "Gobind Gatte",
+      "section": "Main Course",
+      "price": 640,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Dal Makhni",
+      "section": "Main Course",
+      "price": 700,
+      "unit": "kg",
+      "bestseller": true,
+      "signature": true,
+      "details": "Slow-cooked black dal"
+    },
+    {
+      "name": "Veg Kofta Curry",
+      "section": "Main Course",
+      "price": 700,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Palak Kofta",
+      "section": "Main Course",
+      "price": 700,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": true,
+      "details": ""
+    },
+    {
+      "name": "Malai Kofta",
+      "section": "Main Course",
+      "price": 720,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Mushroom Masala",
+      "section": "Main Course",
+      "price": 720,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Mushroom Pudina",
+      "section": "Main Course",
+      "price": 720,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Corn Capsicum Masala",
+      "section": "Main Course",
+      "price": 720,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Palak Paneer",
+      "section": "Main Course",
+      "price": 720,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": true,
+      "details": ""
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "section": "Main Course",
+      "price": 720,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Paneer Methi Chaman",
+      "section": "Main Course",
+      "price": 740,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Paneer Dopyaza",
+      "section": "Main Course",
+      "price": 740,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Paneer Bhurji",
+      "section": "Main Course",
+      "price": 740,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Kadai Paneer",
+      "section": "Main Course",
+      "price": 740,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Methi Malai Paneer",
+      "section": "Main Course",
+      "price": 740,
+      "unit": "kg",
+      "bestseller": true,
+      "signature": true,
+      "details": "Creamy fenugreek paneer"
+    },
+    {
+      "name": "Gulab Jamun Ki Sabzi",
+      "section": "Main Course",
+      "price": 800,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Paneer Angaara",
+      "section": "Main Course",
+      "price": 800,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "section": "Main Course",
+      "price": 900,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Ker Kaju Curry",
+      "section": "Main Course",
+      "price": 1200,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": "Rajasthani ker & cashew"
+    },
+    {
+      "name": "Rice",
+      "section": "Rice & Noodles",
+      "price": 640,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": "Ghee / Jeera"
+    },
+    {
+      "name": "Plain Pulao",
+      "section": "Rice & Noodles",
+      "price": 660,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Veg Pulao / Fried Rice / Biryani",
+      "section": "Rice & Noodles",
+      "price": 680,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Kabuli Pulao",
+      "section": "Rice & Noodles",
+      "price": 840,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Veg / Schezwan Noodles",
+      "section": "Rice & Noodles",
+      "price": 640,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Raita",
+      "section": "Rice & Noodles",
+      "price": 400,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": "Curd · Boondi / Loki / Aaloo"
+    },
+    {
+      "name": "Dahi Bada",
+      "section": "Rice & Noodles",
+      "price": 400,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": "Curd"
+    },
+    {
+      "name": "Fulka",
+      "section": "Breads",
+      "price": "20 / 25",
+      "unit": "pc",
+      "bestseller": false,
+      "signature": false,
+      "details": "Plain / Ghee"
+    },
+    {
+      "name": "Methi Roti / Thepla",
+      "section": "Breads",
+      "price": 25,
+      "unit": "pc",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Pakwaan",
+      "section": "Breads",
+      "price": 35,
+      "unit": "pc",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Baati",
+      "section": "Breads",
+      "price": 40,
+      "unit": "pc",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Amritsari Kulcha — Plain",
+      "section": "Breads",
+      "price": 50,
+      "unit": "pc",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Amritsari Kulcha — Stuffed",
+      "section": "Breads",
+      "price": 60,
+      "unit": "pc",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Pragri",
+      "section": "Desserts",
+      "price": 70,
+      "unit": "pc",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Pheerni",
+      "section": "Desserts",
+      "price": 660,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": "Rice"
+    },
+    {
+      "name": "Kheerni",
+      "section": "Desserts",
+      "price": 660,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": "Sevaiyan"
+    },
+    {
+      "name": "Shakar Para",
+      "section": "Desserts",
+      "price": 680,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Fruit Custard",
+      "section": "Desserts",
+      "price": 760,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Kalaa Kand",
+      "section": "Desserts",
+      "price": 760,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Sweet Samosa",
+      "section": "Desserts",
+      "price": 760,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Sev Burfi",
+      "section": "Desserts",
+      "price": 760,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Gulab / Kala Jamun",
+      "section": "Desserts",
+      "price": 760,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Chocolate Oats Cookies",
+      "section": "Desserts",
+      "price": 840,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Gujiya — Chashni",
+      "section": "Desserts",
+      "price": 840,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": "Chashni"
+    },
+    {
+      "name": "Gujiya — Plain",
+      "section": "Desserts",
+      "price": 1000,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": "Plain"
+    },
+    {
+      "name": "Gajar Halwa",
+      "section": "Desserts",
+      "price": 900,
+      "unit": "kg",
+      "bestseller": true,
+      "signature": true,
+      "details": "Slow-cooked carrot halwa"
+    },
+    {
+      "name": "Rabdi Parfait",
+      "section": "Desserts",
+      "price": 900,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": "Container charges extra"
+    },
+    {
+      "name": "Ghevar",
+      "section": "Desserts",
+      "price": 900,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": "Plain / Malai"
+    },
+    {
+      "name": "Atta Mewa Ladoo",
+      "section": "Desserts",
+      "price": 1000,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Chocolate Brownie",
+      "section": "Desserts",
+      "price": 1000,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Dal Badam Halwa",
+      "section": "Desserts",
+      "price": 1100,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Walnut Brownie",
+      "section": "Desserts",
+      "price": 1400,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Badam Halwa",
+      "section": "Desserts",
+      "price": 1800,
+      "unit": "kg",
+      "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Dal Baati, Choorma",
+      "section": "Traditional Delicacies",
+      "price": "On request",
+      "unit": "",
+      "bestseller": false,
+      "signature": false,
+      "details": "Rajasthan's festive classic — baked baati, slow dal & sweet churma."
+    },
+    {
+      "name": "Litti Chokha",
+      "section": "Traditional Delicacies",
+      "price": "On request",
+      "unit": "",
+      "bestseller": false,
+      "signature": false,
+      "details": "Bihar's rustic favourite — sattu-stuffed litti with smoky chokha."
+    },
+    {
+      "name": "Dal Pakwan, Meethi Sevaiyan",
+      "section": "Traditional Delicacies",
+      "price": "On request",
+      "unit": "",
+      "bestseller": false,
+      "signature": false,
+      "details": "A Sindhi breakfast ritual — crisp pakwan with spiced chana dal."
+    },
+    {
+      "name": "Dal-Moong Koki, Sooji Halwa",
+      "section": "Traditional Delicacies",
+      "price": "On request",
+      "unit": "",
+      "bestseller": false,
+      "signature": false,
+      "details": "Sindhi griddle bread with moong dal, paired with warm sooji halwa."
+    },
+    {
+      "name": "Sindhi Kadi, Chawal, Aaloo Took",
+      "section": "Traditional Delicacies",
+      "price": "On request",
+      "unit": "",
+      "bestseller": false,
+      "signature": false,
+      "details": "Tangy gram-flour kadi with rice and twice-fried aaloo took."
+    },
+    {
+      "name": "Sao Saag, Bhuga Chawal, Aaloo Fry",
+      "section": "Traditional Delicacies",
+      "price": "On request",
+      "unit": "",
+      "bestseller": false,
+      "signature": true,
+      "details": "Slow-cooked greens with bhuga rice and crisp aaloo fry."
+    }
+  ]
+}

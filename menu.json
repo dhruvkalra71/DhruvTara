@@ -5,7 +5,7 @@
     "location": "Erode, Tamil Nadu",
     "phone": "+919043425024",
     "whatsapp": "919043425024",
-    "whatsappText": "Hi DhruvTara Home Kitchen! I'm planning a get-together in Erode and would like to ask about catering.",
+    "whatsappText": "Hi DhruvTara Home Kitchen!",
     "sectionOrder": [
       "Starters",
       "Main Course",
@@ -26,11 +26,20 @@
       "details": ""
     },
     {
-      "name": "Vada Pav / Dabeli",
+      "name": "Vada Pav",
       "section": "Starters",
       "price": 50,
       "unit": "pc",
       "bestseller": false,
+      "signature": false,
+      "details": ""
+    },
+    {
+      "name": "Dabeli",
+      "section": "Starters",
+      "price": 50,
+      "unit": "pc",
+      "bestseller": true,
       "signature": false,
       "details": ""
     },
@@ -49,7 +58,7 @@
       "price": 70,
       "unit": "pc",
       "bestseller": false,
-      "signature": false,
+      "signature": true,
       "details": ""
     },
     {
@@ -165,8 +174,8 @@
       "section": "Starters",
       "price": 800,
       "unit": "kg",
-      "bestseller": true,
-      "signature": true,
+      "bestseller": false,
+      "signature": false,
       "details": "Spinach & green-pea patties"
     },
     {
@@ -211,7 +220,7 @@
       "price": 800,
       "unit": "kg",
       "bestseller": false,
-      "signature": false,
+      "signature": true,
       "details": ""
     },
     {
@@ -220,7 +229,7 @@
       "price": 800,
       "unit": "kg",
       "bestseller": false,
-      "signature": false,
+      "signature": true,
       "details": ""
     },
     {
@@ -228,8 +237,8 @@
       "section": "Starters",
       "price": 840,
       "unit": "kg",
-      "bestseller": false,
-      "signature": false,
+      "bestseller": true,
+      "signature": true,
       "details": ""
     },
     {
@@ -265,7 +274,7 @@
       "price": 920,
       "unit": "kg",
       "bestseller": false,
-      "signature": false,
+      "signature": true,
       "details": ""
     },
     {
@@ -282,8 +291,8 @@
       "section": "Starters",
       "price": 1000,
       "unit": "kg",
-      "bestseller": true,
-      "signature": true,
+      "bestseller": false,
+      "signature": false,
       "details": "Char-grilled tandoori paneer"
     },
     {
@@ -364,7 +373,7 @@
       "price": 640,
       "unit": "kg",
       "bestseller": false,
-      "signature": true,
+      "signature": false,
       "details": "Kashmiri-style baby potatoes"
     },
     {
@@ -381,8 +390,8 @@
       "section": "Main Course",
       "price": 700,
       "unit": "kg",
-      "bestseller": true,
-      "signature": true,
+      "bestseller": false,
+      "signature": false,
       "details": "Slow-cooked black dal"
     },
     {
@@ -400,7 +409,7 @@
       "price": 700,
       "unit": "kg",
       "bestseller": false,
-      "signature": true,
+      "signature": false,
       "details": ""
     },
     {
@@ -445,7 +454,7 @@
       "price": 720,
       "unit": "kg",
       "bestseller": false,
-      "signature": true,
+      "signature": false,
       "details": ""
     },
     {
@@ -498,8 +507,8 @@
       "section": "Main Course",
       "price": 740,
       "unit": "kg",
-      "bestseller": true,
-      "signature": true,
+      "bestseller": false,
+      "signature": false,
       "details": "Creamy fenugreek paneer"
     },
     {
@@ -661,7 +670,7 @@
       "price": 70,
       "unit": "pc",
       "bestseller": false,
-      "signature": false,
+      "signature": true,
       "details": ""
     },
     {
@@ -768,8 +777,8 @@
       "section": "Desserts",
       "price": 900,
       "unit": "kg",
-      "bestseller": true,
-      "signature": true,
+      "bestseller": false,
+      "signature": false,
       "details": "Slow-cooked carrot halwa"
     },
     {
@@ -841,7 +850,7 @@
       "price": "On request",
       "unit": "",
       "bestseller": false,
-      "signature": false,
+      "signature": true,
       "details": "Rajasthan's festive classic — baked baati, slow dal & sweet churma."
     },
     {
@@ -850,7 +859,7 @@
       "price": "On request",
       "unit": "",
       "bestseller": false,
-      "signature": false,
+      "signature": true,
       "details": "Bihar's rustic favourite — sattu-stuffed litti with smoky chokha."
     },
     {
@@ -858,8 +867,8 @@
       "section": "Traditional Delicacies",
       "price": "On request",
       "unit": "",
-      "bestseller": false,
-      "signature": false,
+      "bestseller": true,
+      "signature": true,
       "details": "A Sindhi breakfast ritual — crisp pakwan with spiced chana dal."
     },
     {
@@ -868,7 +877,7 @@
       "price": "On request",
       "unit": "",
       "bestseller": false,
-      "signature": false,
+      "signature": true,
       "details": "Sindhi griddle bread with moong dal, paired with warm sooji halwa."
     },
     {
@@ -877,7 +886,7 @@
       "price": "On request",
       "unit": "",
       "bestseller": false,
-      "signature": false,
+      "signature": true,
       "details": "Tangy gram-flour kadi with rice and twice-fried aaloo took."
     },
     {

@@ -70,6 +70,8 @@
   .thali{width:min(100%,440px);height:auto}
   .thali-wrap{position:relative;animation:floaty 7s ease-in-out infinite}
   @keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+  .steam-wisp{opacity:.5;transform-box:fill-box;transform-origin:center bottom;animation:steam 3.6s ease-in-out infinite}
+  @keyframes steam{0%{opacity:0;transform:translateY(8px) scaleY(.92)}25%{opacity:.7}70%{opacity:.4}100%{opacity:0;transform:translateY(-12px) scaleY(1.06)}}
   .thali-center{position:absolute;inset:0;display:grid;place-items:center;pointer-events:none}
   .thali-center .star{width:62px;height:62px;color:var(--gold);filter:drop-shadow(0 4px 12px rgba(217,164,65,.5))}
 
@@ -186,7 +188,7 @@
 
   /* FOOTER */
   .foot{background:var(--maroon-deep);color:#e9d6c2;padding:64px 0 30px}
-  .foot-in{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:40px}
+  .foot-in{display:grid;grid-template-columns:1.5fr 1fr;gap:48px;align-items:start}
   .foot-brand .logo-name{color:#fff;font-size:1.4rem}
   .foot-brand .tag{font-family:var(--display);font-style:italic;color:var(--gold-soft);margin:12px 0 0;font-size:1.05rem}
   .foot h4{font-family:var(--body);font-weight:700;font-size:.8rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold-soft);margin:0 0 16px}

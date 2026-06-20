@@ -851,7 +851,7 @@
       "unit": "",
       "bestseller": false,
       "signature": true,
-      "details": "Rajasthan's festive classic — baked baati, slow dal & sweet churma."
+      "details": "A Rajasthani festive classic — hand-baked wheat baati with hearty dal and sweet, ghee-rich churma."
     },
     {
       "name": "Litti Chokha",
@@ -860,7 +860,7 @@
       "unit": "",
       "bestseller": false,
       "signature": true,
-      "details": "Bihar's rustic favourite — sattu-stuffed litti with smoky chokha."
+      "details": "Bihar's smoky favourite — roasted sattu-stuffed litti with mashed brinjal-and-tomato chokha."
     },
     {
       "name": "Dal Pakwan, Meethi Sevaiyan",
@@ -869,7 +869,7 @@
       "unit": "",
       "bestseller": true,
       "signature": true,
-      "details": "A Sindhi breakfast ritual — crisp pakwan with spiced chana dal."
+      "details": "A Sindhi morning favourite — crisp fried pakwan with spiced chana dal, served with sweet meethi sevaiyan."
     },
     {
       "name": "Dal-Moong Koki, Sooji Halwa",
@@ -878,7 +878,7 @@
       "unit": "",
       "bestseller": false,
       "signature": true,
-      "details": "Sindhi griddle bread with moong dal, paired with warm sooji halwa."
+      "details": "A hearty Sindhi plate — spiced moong-dal koki flatbread with warm semolina (sooji) halwa."
     },
     {
       "name": "Sindhi Kadi, Chawal, Aaloo Took",
@@ -887,7 +887,7 @@
       "unit": "",
       "bestseller": false,
       "signature": true,
-      "details": "Tangy gram-flour kadi with rice and twice-fried aaloo took."
+      "details": "Tangy, tamarind-soured Sindhi kadi with steamed rice and crisp twice-fried aaloo took."
     },
     {
       "name": "Sao Saag, Bhuga Chawal, Aaloo Fry",
@@ -896,7 +896,7 @@
       "unit": "",
       "bestseller": false,
       "signature": true,
-      "details": "Slow-cooked greens with bhuga rice and crisp aaloo fry."
+      "details": "A homestyle Sindhi spread — slow-cooked greens with caramelised-onion bhuga rice and crisp aaloo fry."
     }
   ]
 }
